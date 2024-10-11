@@ -12,7 +12,6 @@ This project is a backend system for an assignment submission portal. It allows 
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
